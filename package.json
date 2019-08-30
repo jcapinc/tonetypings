@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tone": "^13.8.25"
+    "tone": "^13.8.25",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.6.2"
   }
 }
